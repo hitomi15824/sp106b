@@ -5,8 +5,8 @@
 課程名稱   | 系統程式 (nand2tetris - Part II)
 開課單位   | 金門大學資訊工程系
 開課年度   | 106 學年下學期
-學員姓名   | 
-教師姓名   | 陳鍾誠
+學員姓名   | 張冠宏
+教師姓名   | 陳鍾誠
 上課教材   | [wiki](https://github.com/cccnqu/sp106b/wiki)
 程式範例   | [example](example)
 練習作業   | [exercise](exercise)
